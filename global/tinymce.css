@@ -1,0 +1,7 @@
+/* this CSS file determines the default style of the tinyMCE windows */
+
+body { padding: 8px; }
+body, html, table, td, div, p {
+  font-size: 8pt;
+  line-height: 13pt;
+}

@@ -1,0 +1,15 @@
+TODO list
+---------
+
+MUST DO for version 1
+
+- New versions: option to base on previous
+- Reviews. It's possible that two people are reviewing the same data item at the same time. There
+should be an extra check to ensure it's not already marked as "closed". If it is, let the translator know.
+
+
+OPTIONAL for version 1
+
+- If going to allow changing threshold of blacklist & trust, need to update all data when it changes.
+- If going to allow REMOVING version language for translation, need to remove all translations made.
+
